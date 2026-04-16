@@ -1,0 +1,8 @@
+{
+	Name: "Enchanted Edition 1",
+	Description: "New era of Age of History 2: Definitive Edition!",
+	
+	Tags: [ "UI", "Radio", "Overlays", "Currency", "Graphics", "Government", "Terrain", "GameValues", "Balance", "Earth14K", "Languages", "loading background", "music", "Diplomacy", "Map" ],
+	
+	ChangeNote: "Best mod for AoH2: DE!",
+}
