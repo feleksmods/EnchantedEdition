@@ -7,6 +7,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Complete rework of difficulty levels and their respective bonuses
 - Redesigned relationship system with other countries
 - Enhanced realism through modifications to over 30+ game files
+- The mechanics of diplomacy have been completely redesigned
 
 ### Economy and Management
 - Balanced investment system
@@ -26,6 +27,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - More "devastating" and impactful rebellions
 - Rebalanced stability and revolutionary risks
 - AI rebalance, ensuring more realistic internal revolts for AI nations
+- A more realistic reaction of the population to various events
 
 ### Technical and Visual Improvements
 - Redesigned map and objects
@@ -37,6 +39,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Improved AI for managing large empires
 - More engaging and dynamic wars between AI nations
 - General AI logic updates
+- Now the AI will react more realistically
 
 ### Language Support
 Full translations for: English
