@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Azali Assoumani",
+			ImageID: "com_azaliassoumani",
+			
+			BornDay: 1,
+			BornMonth: 1,
+			BornYear: 1959,
+			
+			ReignYear: 2002,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

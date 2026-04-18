@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Li Zongren",
+			ImageID: "guag_lizongren",
+			
+			BornDay: 13,
+			BornMonth: 8,
+			BornYear: 1891,
+			
+			ReignYear: 1928,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

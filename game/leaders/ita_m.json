@@ -1,0 +1,36 @@
+{
+	Rulers: [
+		{
+			Name: "Victor Emmanuel II",
+			ImageID: "ita_victoremmanuelii",
+			
+			BornDay: 14,
+			BornMonth: 3,
+			BornYear: 1820,
+			
+			ReignYear: 1861,
+		},
+		{
+			Name: "Benito Mussolini",
+			ImageID: "ita_benitomussolini",
+			
+			BornDay: 29,
+			BornMonth: 6,
+			BornYear: 1883,
+			
+			ReignYear: 1922,
+		},
+		{
+			Name: "Sergio Mattarella",
+			ImageID: "ita_sergiomattarella",
+			
+			BornDay: 23,
+			BornMonth: 7,
+			BornYear: 1941,
+			
+			ReignYear: 2015,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

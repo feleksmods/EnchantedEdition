@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Chan Santokhi",
+			ImageID: "sur_chansantokhi",
+			
+			BornDay: 3,
+			BornMonth: 2,
+			BornYear: 1959,
+			
+			ReignYear: 2020,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

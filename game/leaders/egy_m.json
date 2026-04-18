@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Abdel Fattah el Sisi",
+			ImageID: "egy_abdelfattahelsisi",
+			
+			BornDay: 19,
+			BornMonth: 11,
+			BornYear: 1954,
+			
+			ReignYear: 2014,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

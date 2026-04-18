@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Vahagn Khachaturyan",
+			ImageID: "arm_vahagnkhachaturyan",
+			
+			BornDay: 22,
+			BornMonth: 04,
+			BornYear: 1959,
+			
+			ReignYear: 2022,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

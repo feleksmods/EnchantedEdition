@@ -4,5 +4,5 @@
 	
 	Tags: [ "UI", "Radio", "Overlays", "Currency", "Graphics", "Government", "Terrain", "GameValues", "Balance", "Earth14K", "Languages", "loading background", "music", "Diplomacy", "Map" ],
 	
-	ChangeNote: "1.1 - ai diplomacy, diplomacy, goods",
+	ChangeNote: "1.2 - added ruler's images, rebalanced colonization and movement points. I'am trying to fix bug with armies",
 }

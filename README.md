@@ -15,6 +15,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Adjusted logistics and penalties
 - Modified economic growth rates
 - Realistic inflation system
+- A more realistic colonization system
 
 ### Military and Diplomatic Changes
 - AI now reacts more realistically to player actions
@@ -34,6 +35,8 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - New high-quality loading screens
 - Over 50 new soundtracks!
 - Modernized currencies
+- Movement Points System Rebalance
+- Added rulers images
 
 ### AI Overhaul
 - Improved AI for managing large empires

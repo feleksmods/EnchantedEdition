@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Zdenek Vojtech Popel z Lobkovic",
+			ImageID: vojtech,
+			
+			BornDay: 15,
+			BornMonth: 8,
+			BornYear: 1568,
+			
+			ReignYear: 1618,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Long Yun",
+			ImageID: "yuu_longyun",
+			
+			BornDay: 27,
+			BornMonth: 11,
+			BornYear: 1884,
+			
+			ReignYear: 1928,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

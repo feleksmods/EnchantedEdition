@@ -1,0 +1,26 @@
+{
+	Rulers: [
+		{
+			Name: "Eamon de Valera",
+			ImageID: "ire_eamondevalera",
+			
+			BornDay: 10,
+			BornMonth: 10,
+			BornYear: 1882,
+			
+			ReignYear: 1932,
+		},
+		{
+			Name: "Michael D. Higgins",
+			ImageID: "ire_michaeldhiggins",
+			
+			BornDay: 18,
+			BornMonth: 4,
+			BornYear: 1941,
+			
+			ReignYear: 2011,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

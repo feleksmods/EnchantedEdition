@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Isaias Afwerki",
+			ImageID: "ent_isaiasafwerki",
+			
+			BornDay: 2,
+			BornMonth: 2,
+			BornYear: 1946,
+			
+			ReignYear: 1983,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

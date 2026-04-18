@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Wiliame Katonivere",
+			ImageID: "fij_wiliamekatonivere",
+			
+			BornDay: 20,
+			BornMonth: 4,
+			BornYear: 1964,
+			
+			ReignYear: 2021,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

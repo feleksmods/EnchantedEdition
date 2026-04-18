@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Teodoro Obiang Nguema Mbasogo",
+			ImageID: "eqa_teodoroobiangnguemambasogo",
+			
+			BornDay: 5,
+			BornMonth: 6,
+			BornYear: 1948,
+			
+			ReignYear: 1982,
+		},
+	],
+	
+	Age_of_History: Rulers
+}
