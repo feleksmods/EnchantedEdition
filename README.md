@@ -8,6 +8,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Redesigned relationship system with other countries
 - Enhanced realism through modifications to over 30+ game files
 - The mechanics of diplomacy have been completely redesigned
+- Vassal Rework
 
 ### Economy and Management
 - Balanced investment system
