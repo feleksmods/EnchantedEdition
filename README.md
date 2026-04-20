@@ -46,7 +46,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Now the AI will react more realistically
 
 ### Language Support
-Full translations for: English
+Full translations for: English, Russian
 
 Discord: https://discord.gg/9YEyrFKmQN
 You can also help us with the development on GitHub: https://github.com/feleksmods/EnchantedEdition
