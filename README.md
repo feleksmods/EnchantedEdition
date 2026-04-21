@@ -17,6 +17,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Modified economic growth rates
 - Realistic inflation system
 - A more realistic colonization system
+- All buildings have been completely redesigned
 
 ### Military and Diplomatic Changes
 - AI now reacts more realistically to player actions
