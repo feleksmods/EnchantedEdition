@@ -40,6 +40,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Modernized currencies
 - Movement Points System Rebalance
 - Added rulers images
+- Brighter map
 
 ### AI Overhaul
 - Improved AI for managing large empires
