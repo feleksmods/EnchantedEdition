@@ -4,5 +4,5 @@
 	
 	Tags: [ "UI", "Radio", "Overlays", "Currency", "Graphics", "Government", "Terrain", "nuke", "Leaders", "Languages", "AI", "GameValues", "UI", "gfx", "Balance", "Earth14K", "Languages", "loading background", "music", "Diplomacy", "Map" ],
 	
-	ChangeNote: "1.7 - brighter map",
+	ChangeNote: "1.7 - reverted map",
 }
