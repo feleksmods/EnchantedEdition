@@ -10,6 +10,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - The mechanics of diplomacy have been completely redesigned
 - Vassal Rework
 - Golden age rework
+- Trade mechanics have been updated
 
 ### Economy and Management
 - Balanced investment system
@@ -32,6 +33,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Rebalanced stability and revolutionary risks
 - AI rebalance, ensuring more realistic internal revolts for AI nations
 - A more realistic reaction of the population to various events
+- Festival Updates
 
 ### Technical and Visual Improvements
 - Redesigned map and objects
@@ -40,6 +42,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Modernized currencies
 - Movement Points System Rebalance
 - Added rulers images
+- Speed up game loading
 
 ### AI Overhaul
 - Improved AI for managing large empires
