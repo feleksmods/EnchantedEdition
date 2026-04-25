@@ -1,0 +1,37 @@
+name: Releases
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Create Zip Archive
+        run: |
+          zip -r EnchantedEdition.zip . -x "*.git*" "*.github*" "CHANGELOG.md" ".gitignore"
+      - name: Get Short SHA
+        id: slug
+        run: echo "sha8=$(echo ${GITHUB_SHA::8})" >> $GITHUB_OUTPUT
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: build-${{ steps.slug.outputs.sha8 }}
+          name: "Enchanted Edition (Build ${{ steps.slug.outputs.sha8 }})"
+          files: EnchantedEdition.zip
+          body: |
+            Automatic build from latest commit.
+            Commit SHA: ${{ github.sha }}
+            
+            **Changelog:**
+            Check CHANGELOG.md for the latest updates.
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
