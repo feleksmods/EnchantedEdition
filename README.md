@@ -11,6 +11,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Vassal Rework
 - Golden age rework
 - Trade mechanics have been updated
+- Added more challenges
 
 ### Economy and Management
 - Balanced investment system
