@@ -46,6 +46,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Movement Points System Rebalance
 - Added rulers images
 - Speed up game loading
+- More civilization templates
 
 ### AI Overhaul
 - Improved AI for managing large empires

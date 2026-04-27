@@ -4,5 +4,5 @@
 	
 	Tags: [ "UI", "Radio", "Overlays", "Currency", "Graphics", "Government", "Terrain", "nuke", "Leaders", "Languages", "AI", "GameValues", "UI", "gfx", "Balance", "Earth14K", "Languages", "loading background", "music", "Diplomacy", "Map" ],
 	
-	ChangeNote: "1.10 - changed terrain types, added 2 new governments, fixed lukasz update",
+	ChangeNote: "1.10 - changed terrain types, added 2 new governments, civilization templates, fixed lukasz update",
 }
