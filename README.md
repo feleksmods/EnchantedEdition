@@ -12,6 +12,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Golden age rework
 - Trade mechanics have been updated
 - Added more challenges
+- Full rework of terrain types
 
 ### Economy and Management
 - Balanced investment system
@@ -35,6 +36,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - AI rebalance, ensuring more realistic internal revolts for AI nations
 - A more realistic reaction of the population to various events
 - Festival Updates
+- Added 2 new government types
 
 ### Technical and Visual Improvements
 - Redesigned map and objects
