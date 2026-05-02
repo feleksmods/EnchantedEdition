@@ -1,8 +1,8 @@
 {
-	Name: "Enchanted Edition 1.12 - fixes",
+	Name: "Enchanted Edition 1.13",
 	Description: "New era of Age of History 2: Definitive Edition!",
 	
 	Tags: [ "UI", "Radio", "Overlays", "Currency", "Graphics", "Government", "Terrain", "nuke", "Leaders", "Languages", "AI", "GameValues", "UI", "gfx", "Balance", "Earth14K", "Languages", "loading background", "music", "Diplomacy", "Map" ],
 	
-	ChangeNote: "1.12 - relations and diplomacy fixes, AI form civ rework",
+	ChangeNote: "1.13 - fixed economy bug",
 }
