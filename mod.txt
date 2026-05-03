@@ -1,8 +1,8 @@
 {
-	Name: "Enchanted Edition 1.13",
+	Name: "Enchanted Edition 1.14",
 	Description: "New era of Age of History 2: Definitive Edition!",
 	
 	Tags: [ "UI", "Radio", "Overlays", "Currency", "Graphics", "Government", "Terrain", "nuke", "Leaders", "Languages", "AI", "GameValues", "UI", "gfx", "Balance", "Earth14K", "Languages", "loading background", "music", "Diplomacy", "Map" ],
 	
-	ChangeNote: "1.13 - fixed economy bug",
+	ChangeNote: "1.14 - fixed terrain bug, radio bug, added 2 new radio stations, fixed AI war bug",
 }
