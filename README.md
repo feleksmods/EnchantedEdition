@@ -13,6 +13,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Trade mechanics have been updated
 - Added more challenges
 - Full rework of terrain types
+- Timelapse update
 
 ### Economy and Management
 - Balanced investment system
