@@ -48,6 +48,8 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Added rulers images
 - Speed up game loading
 - More civilization templates
+- Clear flag
+- Better top panel
 
 ### AI Overhaul
 - Improved AI for managing large empires
