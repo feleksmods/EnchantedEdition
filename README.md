@@ -29,6 +29,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Realistic capitulation system, making surrenders feel more plausible
 - Peace conference rework
 - Deeper and more nuanced diplomatic mechanics
+- Full battle rework
 
 ### Internal Politics
 - Fully redesigned rebellion system for more realistic and logical uprisings
