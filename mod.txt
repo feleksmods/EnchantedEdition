@@ -1,8 +1,8 @@
 {
-	Name: "Enchanted Edition 1.18.2",
+	Name: "Enchanted Edition 2.0",
 	Description: "New era of Age of History 2: Definitive Edition!",
 	
 	Tags: [ "UI", "Radio", "Overlays", "Currency", "Graphics", "Government", "Terrain", "nuke", "Leaders", "Languages", "AI", "GameValues", "UI", "gfx", "Balance", "Earth14K", "Languages", "loading background", "music", "Diplomacy", "Map" ],
 	
-	ChangeNote: "1.18.2 - beta declare war fix",
+	ChangeNote: "2.0 - fixed declare war bug, wonder rework, golden age update, atmoic rework",
 }

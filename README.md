@@ -14,6 +14,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Added more challenges
 - Full rework of terrain types
 - Timelapse update
+- Atomic rework
 
 ### Economy and Management
 - Balanced investment system
@@ -23,6 +24,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Realistic inflation system
 - A more realistic colonization system
 - All buildings have been completely redesigned
+- wonder rework
 
 ### Military and Diplomatic Changes
 - AI now reacts more realistically to player actions
