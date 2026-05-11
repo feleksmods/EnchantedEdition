@@ -15,6 +15,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Full rework of terrain types
 - Timelapse update
 - Atomic rework
+- Diseases update
 
 ### Economy and Management
 - Balanced investment system
