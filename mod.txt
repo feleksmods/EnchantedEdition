@@ -1,8 +1,8 @@
 {
-	Name: "Enchanted Edition 2.6",
+	Name: "Enchanted Edition 2.7",
 	Description: "New era of Age of History 2: Definitive Edition!",
 	
 	Tags: [ "UI", "Radio", "Overlays", "Currency", "Graphics", "Government", "Terrain", "nuke", "Leaders", "Languages", "AI", "GameValues", "UI", "gfx", "Balance", "Earth14K", "Languages", "loading background", "music", "Diplomacy", "Map" ],
 	
-	ChangeNote: "2.6 - province not supplied rework",
+	ChangeNote: "2.7 - HRE rework",
 }
