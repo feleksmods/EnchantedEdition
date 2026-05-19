@@ -1,8 +1,8 @@
 {
-	Name: "Enchanted Edition 2.8",
+	Name: "Enchanted Edition 2.9",
 	Description: "New era of Age of History 2: Definitive Edition!",
 	
 	Tags: [ "UI", "Radio", "Overlays", "Currency", "Graphics", "Government", "Terrain", "nuke", "Leaders", "Languages", "AI", "GameValues", "UI", "gfx", "Balance", "Earth14K", "Languages", "loading background", "music", "Diplomacy", "Map" ],
 	
-	ChangeNote: "2.8 - polish translation",
+	ChangeNote: "2.9 - updated sanctions, call to arms, non aggression pact, vassalisation, sanctions",
 }
