@@ -1,8 +1,8 @@
 {
-	Name: "Enchanted Edition 2.9",
+	Name: "Enchanted Edition 2.10",
 	Description: "New era of Age of History 2: Definitive Edition!",
 	
 	Tags: [ "UI", "Radio", "Overlays", "Currency", "Graphics", "Government", "Terrain", "nuke", "Leaders", "Languages", "AI", "GameValues", "UI", "gfx", "Balance", "Earth14K", "Languages", "loading background", "music", "Diplomacy", "Map" ],
 	
-	ChangeNote: "2.9 - updated sanctions, call to arms, non aggression pact, vassalisation, sanctions",
+	ChangeNote: "2.10 - fixed lukasz 'mega' update. Reworked national bank, spy system, relations rework, fixed diplomacy points issue",
 }
