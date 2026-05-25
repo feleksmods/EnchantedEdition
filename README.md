@@ -45,6 +45,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - Festival Updates
 - Added 2 new government types
 - Spy system reworked
+- Happiness rework
 
 ### Technical and Visual Improvements
 - Redesigned map and objects
@@ -57,6 +58,7 @@ A global overhaul of the game featuring new mechanics, content, and strategic po
 - More civilization templates
 - Clear flag
 - Better top panel
+- Ships rework
 
 ### AI Overhaul
 - Improved AI for managing large empires
