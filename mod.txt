@@ -1,8 +1,8 @@
 {
-	Name: "Enchanted Edition 2.17.2",
+	Name: "Enchanted Edition 2.18",
 	Description: "New era of Age of History 2: Definitive Edition!",
 	
 	Tags: [ "UI", "Radio", "Overlays", "Currency", "Graphics", "Government", "Terrain", "nuke", "Leaders", "Languages", "AI", "GameValues", "UI", "gfx", "Balance", "Earth14K", "Languages", "loading background", "music", "Diplomacy", "Map" ],
 	
-	ChangeNote: "2.17.2 - AI improvements",
+	ChangeNote: "2.18 - fixed ships, fixed AI",
 }
